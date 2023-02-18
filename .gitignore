@@ -1,0 +1,6 @@
+/run_*
+/cmd/certie/certie
+
+dist/
+
+.idea
